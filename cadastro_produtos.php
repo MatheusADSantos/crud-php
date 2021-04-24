@@ -11,7 +11,8 @@
   <h1 class="text-center">Cadastro de Produtos</h1>
 
 
-  <form action="./htdocs/Estudo/CRUD/cadastrar_produtos.php" method="get">
+  <!-- <form action="./htdocs/Estudo/CRUD/cadastrar_produtos.php" method="get"> -->
+  <form action="./cadastrar_produtos.php" method="get">
     <div class="form-group">
       <span>Nome</span>
       <input name="nome" class="form-control">
